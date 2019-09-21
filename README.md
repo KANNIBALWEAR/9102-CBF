@@ -11,6 +11,7 @@ Techwear Cargo Bike Frame - built to last forever and protect your gear. If it g
 - durable
 
 Tasks:
-- make mockup shapes and the sculpting
+- make digital mockup shapes and the sculpting
 - test various patterns to accomodate the widest variety of bike frames possible
-- 
+- make a physical prototype
+- grab a test bike for fitting (the most universal bike)
