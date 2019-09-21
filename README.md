@@ -9,3 +9,8 @@ Techwear Cargo Bike Frame - built to last forever and protect your gear. If it g
 - slim
 - lightweight
 - durable
+
+Tasks:
+- make mockup shapes and the sculpting
+- test various patterns to accomodate the widest variety of bike frames possible
+- 
