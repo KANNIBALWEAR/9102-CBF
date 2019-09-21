@@ -1,6 +1,6 @@
 ![](kannibal-bike-cargo-frame.png)
 
-# 9102-CBF
+# 9102-CBF / CARGO BIKE FRAME 
 Techwear Cargo Bike Frame - built to last forever and protect your gear. If it gets torn, send a picture and we send you a replacement no questions asked. Best materials possible. 
 
 Carbon-coated? Embedded kevlar? Embedded battery pack? Concealed carry? 
