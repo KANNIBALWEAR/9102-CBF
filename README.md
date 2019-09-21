@@ -16,6 +16,7 @@ Tasks:
 - make a physical prototype
 - grab a test bike for fitting (the most universal bike)
 - variety of colors but main is matte dark grey (stealth).
+- or maybe not, just go for dark.
 - stealth branding placement (barely visible)
 - product tag design
 - product packaging and distribution
